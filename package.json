@@ -155,13 +155,17 @@
     "webpack-validator": "^2.2.11"
   },
   "dependencies": {
+    "d3-request": "^1.0.3",
     "electron-debug": "^1.1.0",
     "font-awesome": "^4.7.0",
+    "material-ui": "^0.16.5",
     "react": "^15.4.1",
     "react-dom": "^15.4.1",
     "react-redux": "^4.4.6",
     "react-router": "^3.0.0",
     "react-router-redux": "^4.0.7",
+    "react-stockcharts": "^0.6.0-beta.11",
+    "react-tap-event-plugin": "^2.0.1",
     "redux": "^3.6.0",
     "redux-thunk": "^2.1.0",
     "source-map-support": "^0.4.6"
